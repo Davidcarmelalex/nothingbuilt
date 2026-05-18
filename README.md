@@ -1,68 +1,55 @@
-# NothingBuilt
 
-> Your art. Your rules. Your revenue.
+```
+███╗   ██╗ ██████╗ ████████╗██╗  ██╗██╗███╗   ██╗ ██████╗
+████╗  ██║██╔═══██╗╚══██╔══╝██║  ██║██║████╗  ██║██╔════╝
+██╔██╗ ██║██║   ██║   ██║   ███████║██║██╔██╗ ██║██║  ███╗
+██║╚██╗██║██║   ██║   ██║   ██╔══██║██║██║╚██╗██║██║   ██║
+██║ ╚████║╚██████╔╝   ██║   ██║  ██║██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
-[![Part of](https://img.shields.io/badge/MrNothing-Movement-purple)](https://github.com/Davidcarmelalex/MrNothing)
+    ██████╗ ██╗   ██╗██╗██╗  ████████╗
+    ██╔══██╗██║   ██║██║██║  ╚══██╔══╝
+    ██████╔╝██║   ██║██║██║     ██║
+    ██╔══██╗██║   ██║██║██║     ██║
+    ██████╔╝╚██████╔╝██║███████╗██║
+    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝
 
-**NothingBuilt** is an underground sanctuary for independent artists — a platform to claim your craft, protect your work, and reclaim power from big labels and distribution gatekeepers.
+        ┌───────────────────────────────────────────────────┐
+        │  🎵  UNDERGROUND SANCTUARY FOR INDEPENDENT ART   │
+        │                                                   │
+        │   UPLOAD  →  REGISTER IP  →  OWN YOUR MASTER     │
+        │   DISTRIBUTE  →  EARN  →  NEVER ASK PERMISSION   │
+        └───────────────────────────────────────────────────┘
+
+       "Big labels built walls. We built the door behind them."
+
+           🎤 PROTECT · OWN · DISTRIBUTE · RECLAIM 🎤
+             github.com/Davidcarmelalex/nothingbuilt
+                    part of the MrNothing universe
+```
+
+
+# NothingBuilt — Your Master. Your Rules.
+
+> You don't need their permission. You never did.
+
+NothingBuilt — artist sovereignty platform. Part of M&R&Nothing.
 
 ---
 
-## For Artists
+## Part of the M&R&Nothing Ecosystem
 
 ```
-Own your master recordings
-Publish directly to fans
-Set your own prices
-Build your community
-No label. No middleman. No compromise.
+◈  MRN°  ·  M&R&Nothing  ·  2026  ◈
+A tribute. By David Carmel Alex.
+
+[ MR//NOTHING ]  [ mSEAL ]  [ VOID//SIGNAL ]  [ FACTLOGIC ]
+[ NEXUM LABS ]  [ JAN NITI ]  [ NOTHINGBUILT ]  [ NOTHINGOS ]
+[ NOTHING HUSTLE ]  [ VOID.BOUNTY ]  [ PARTHIVE ]  [ MrNothing OS ]
 ```
+
+→ [github.com/Davidcarmelalex/nothingbuilt](https://github.com/Davidcarmelalex/nothingbuilt)
 
 ---
 
-## Architecture
-
-```
-nothingbuilt/
-├── src/app/
-│   ├── page.tsx          Artist discovery feed
-│   ├── profile/[id]/     Artist profile and music
-│   ├── upload/           Music and content upload
-│   ├── community/        Artist community feed
-│   └── protect/          Rights and ownership tools
-├── lib/
-│   ├── audio.ts          Audio processing utilities
-│   └── rights.ts         Ownership and copyright tools
-├── server/               Backend API + storage
-└── tests/
-```
-
----
-
-## Features
-
-| Feature | Description |
-|---------|-------------|
-| 🎵 Direct publishing | Upload and publish music without intermediaries |
-| 🔐 Rights protection | Register ownership with verifiable on-chain proof |
-| 💰 Direct monetization | Fan payments go straight to the artist |
-| 🤝 Community | Connect with other independent creators |
-| 📊 Analytics | See who's listening, where, and when |
-
----
-
-## Stack
-
-Next.js 16 · TypeScript · Tailwind CSS 4 · Node.js · PostgreSQL · IPFS (media storage)
-
----
-
-## Quick Start
-
-```bash
-git clone https://github.com/Davidcarmelalex/nothingbuilt
-cd nothingbuilt && npm install
-cp .env.example .env.local && npm run dev
-```
+*Built from nothing. For someone. Forever.*
